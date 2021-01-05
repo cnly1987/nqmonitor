@@ -1,0 +1,2 @@
+# nqmonitor
+nodequery server
